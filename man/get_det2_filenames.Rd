@@ -19,4 +19,3 @@ Return the filenames for the DET2 images
 \examples{
 get_det2_filenames()
 }
-
