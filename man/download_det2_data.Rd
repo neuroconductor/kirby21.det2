@@ -16,6 +16,3 @@ Indicator if the data is downloaded.
 \description{
 Download the files for the DET2 images
 }
-\examples{
-download_det2_data()
-}
