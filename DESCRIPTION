@@ -6,8 +6,8 @@ Version: 1.5.1
 Date: 2017-02-27
 Author: John Muschelli <muschellij2@gmail.com>
 Maintainer: John Muschelli <muschellij2@gmail.com>
-Description: Structural DET2 magnetic resonance imaging ('MRI') data from
-        the 'Kirby21' reproducibility study
+Description: Structural DET2 magnetic resonance imaging ('MRI') data from the
+        'Kirby21' reproducibility study
         <http://dx.doi.org/10.1016/j.neuroimage.2010.11.047>.
 License: GPL-2
 Imports: kirby21.base (>= 1.5)
